@@ -1,3 +1,13 @@
+![Actions Status](https://img.shields.io/github/issues/Kalum1/Vauntednpm)
+![Actions Status](https://img.shields.io/github/forks/Kalum1/Vauntednpm)
+![Actions Status](https://img.shields.io/github/stars/Kalum1/Vauntednpm)
+![Actions Status](https://img.shields.io/github/license/Kalum1/Vauntednpm)
+![Actions Status](https://img.shields.io/github/contributors/kalum1/vauntednpm)
+![Actions Status](https://img.shields.io/github/downloads/kalum1/vauntednpm/total)
+![Actions Status](https://img.shields.io/discord/506105941498789888)
+![Actions Status](https://img.shields.io/github/languages/top/kalum1/vauntednpm)
+
+
 # Vaunted
 
 The best Discord.js command handler
