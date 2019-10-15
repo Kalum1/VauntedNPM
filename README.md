@@ -12,11 +12,7 @@ After creating your node project, run the following: ```npm install vauntednpm -
 
 Simply run `npm install` or `npm i` to install all of the prerequisites.
 
-```
-Documentation
-```
-
-### Creating a command
+### Documentation
 
 The `type` attribute controls the class of the file.
 
