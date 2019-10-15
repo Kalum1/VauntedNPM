@@ -4,7 +4,7 @@ The best Discord.js command handler
 
 ## Getting Started
 
-First of all, ![cd](https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) into your working directory.
+First of all, [cd](https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) into your working directory.
 
 After creating your node project, run the following: ```npm install vauntednpm --save```
 
