@@ -4,13 +4,13 @@ The best Discord.js command handler
 
 ## Getting Started
 
-First of all, ![cd](https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) into your working directory.
+First of all, [cd](https://www.macworld.com/article/2042378/master-the-command-line-navigating-files-and-folders.html) into your working directory.
 
 After creating your node project, run the following: ```npm install vauntednpm --save```
 
 ### Prerequisites
 
-Simply run ```npm install` or ```npm i``` to install all of the prerequisites.
+Simply run `npm install` or `npm i` to install all of the prerequisites.
 
 ```
 Documentation
@@ -20,7 +20,7 @@ Documentation
 
 The `type` attribute controls the class of the file.
 
-`Type` can follow these class types: `command, message, 
+`Type` can follow these class types: `command, message, controller`
 
 ```
 vaunted({
