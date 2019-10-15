@@ -10,7 +10,7 @@ After creating your node project, run the following: ```npm install vauntednpm -
 
 ### Prerequisites
 
-Simply run ```npm install` or ```npm i``` to install all of the prerequisites.
+Simply run `npm install` or `npm i` to install all of the prerequisites.
 
 ```
 Documentation
@@ -20,7 +20,7 @@ Documentation
 
 The `type` attribute controls the class of the file.
 
-`Type` can follow these class types: `command, message, 
+`Type` can follow these class types: `command, message, controller`
 
 ```
 vaunted({
