@@ -26,9 +26,11 @@ vaunted({
 
 ## Authors
 
-* **Kalum** - *Initial work | Development work*
-* **Brad** - *Initial work | Development work*
+* **Kalum** - *Initial work | Current development work*
+* **Brad** - *Initial work | Current development work*
+* **Sophia** - *Initial work | Current development work*
 * **Alex** - *Development work*
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
