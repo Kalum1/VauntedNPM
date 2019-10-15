@@ -1,12 +1,20 @@
 {
-  "name": "vauntednpm",
-  "version": "1.0.0",
-  "description": "",
+  "name": "vaunted",
+  "version": "1.1.2",
+  "description": "The best Discord.js command handler",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kalum1/VauntedNPM.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kalum1/VauntedNPM/issues"
+  },
+  "homepage": "https://github.com/Kalum1/VauntedNPM#readme"
 }
