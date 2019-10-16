@@ -1,13 +1,3 @@
-![Actions Status](https://img.shields.io/github/issues/Kalum1/Vauntednpm)
-![Actions Status](https://img.shields.io/github/forks/Kalum1/Vauntednpm)
-![Actions Status](https://img.shields.io/github/stars/Kalum1/Vauntednpm)
-![Actions Status](https://img.shields.io/github/license/Kalum1/Vauntednpm)
-![Actions Status](https://img.shields.io/github/contributors/kalum1/vauntednpm)
-![Actions Status](https://img.shields.io/github/downloads/kalum1/vauntednpm/total)
-![Actions Status](https://img.shields.io/discord/506105941498789888)
-![Actions Status](https://img.shields.io/github/languages/top/kalum1/vauntednpm)
-
-
 # Vaunted
 
 The best Discord.js command handler
@@ -28,18 +18,36 @@ The `type` attribute controls the class of the file.
 
 `Type` can follow these class types: `command, message, controller`
 
+### main bot file (index.js)
+```
+vaunted.main({
+    botToken: config.token,
+    commandsFile: "./commands", // Recommended to be ./commands
+    unknownCommandResponse: false,
+    disableEveryone: true
+})
+```
+
+### Commands (./commands/misc/ping.js...)
 ```
 vaunted({
-    type: "command"
+    name: "Yeet",
+    triggers: ["Tester"],
+    description: "Test command",
+    async: true,
+    ownerOnly: false,
+    argument: true,
+    debug: "true"
 })
 ```
 
 ## Authors
 
-* **Kalum** - *Initial work | Current development work*
-* **Brad** - *Initial work | Current development work*
-* **Sophia** - *Initial work | Current development work*
+* **Kalum** - *Initial work | Development work*
+* **Brad** - *Initial work | Development work*
+* **Sophia** - *Initial work | Development work*
 * **Alex** - *Development work*
+* **Jackson** - *Development work*
 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
