@@ -14,9 +14,7 @@ Simply run `npm install` or `npm i` to install all of the prerequisites.
 
 ## Documentation
 
-The `type` attribute controls the class of the file.
-
-`Type` can follow these class types: `command, message, controller`
+To be added later
 
 ### main bot file (index.js)
 ```
