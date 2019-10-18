@@ -21,8 +21,8 @@ Documentation can be found [here](https://vaunted.co.uk/documentation/)
 * **Kalum** - *Initial work | Development work*
 * **Brad** - *Initial work | Development work*
 * **Sophia** - *Initial work | Development work*
+* **Jackson** - *Rewrite | Development work*
 * **Alex** - *Development work*
-* **Jackson** - *Development work*
 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
