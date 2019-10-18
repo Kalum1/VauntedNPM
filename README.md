@@ -14,30 +14,7 @@ Simply run `npm install` or `npm i` to install all of the prerequisites.
 
 ## Documentation
 
-To be added later
-
-### main bot file (index.js)
-```
-vaunted.main({
-    botToken: config.token,
-    commandsFile: "./commands", // Recommended to be ./commands
-    unknownCommandResponse: false,
-    disableEveryone: true
-})
-```
-
-### Commands (./commands/misc/ping.js...)
-```
-vaunted({
-    name: "Yeet",
-    triggers: ["Tester"],
-    description: "Test command",
-    async: true,
-    ownerOnly: false,
-    argument: true,
-    debug: "true"
-})
-```
+Documentation can be found [here](https://vaunted.co.uk/documentation/)
 
 ## Authors
 
